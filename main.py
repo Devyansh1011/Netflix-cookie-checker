@@ -24,7 +24,7 @@ email = None
 ID = None
 
 lock = Lock()
-num_threads = 5  # Define the maximum number of threads here
+num_threads = 2  # Define the maximum number of threads here
 
 # ___________________________________________
 # | Network Speed | Recommended no. threads |
